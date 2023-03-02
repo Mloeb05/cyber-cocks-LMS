@@ -1,3 +1,20 @@
 [
-    
+    {
+        "UUid":1,
+        "type":"Registered User",
+        "firstName":"Robert",
+        "lastName":"Portis",
+    "password":"",
+    "email":"RobPortis@email.sc.edu",
+    "birthday":"November 9th, 2003"
+    },
+    {
+        "UUid":2,
+        "type":"Admin",
+        "firstName":"John",
+        "lastName":"Frankfurt",
+        "password":"",
+        "email":"jfrank08@email.sc.edu",
+        "birthday":"October 28th, 2001"
+    },
 ]
